@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ថុងជីង</string>
+    <string name="scan">ស្កេន</string>
+    <string name="ip_address">អាសយដ្ឋាន IP</string>
+    <string name="mac_address">អាសយដ្ឋាន MAC</string>
+    <string name="role">តួនាទី</string>
+    <string name="search">ស្វែងរក</string>
+    <string name="product">ទំនិញ</string>
+    <string name="code_number">លេខកូដ</string>
+    <string name="product_name">ឈ្មោះទំនិញ</string>
+    <string name="price">តំលៃ</string>
+    <string name="phone_number">លេខទូរស័ព្ទ</string>
+    <string name="handle_phone_number">ទូរស័ព្ទអ្នកផ្គត់ផ្គង់</string>
+    <string name="size">ទំហំ</string>
+    <string name="number_size">ចំនួនសន្លឹក</string>
+    <string name="size_in_square">ចំនួនម៉ែត្រការ៉េ</string>
+    <string name="handler">អ្នកផ្គត់ផ្គង់</string>
+    <string name="original_price">តំលៃដើម</string>
+    <string name="origin">ប្រភព</string>
+    <string name="quantity">ចំនួនស្តុកប្រហែល</string>
+</resources>
